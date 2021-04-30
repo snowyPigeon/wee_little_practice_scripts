@@ -9,7 +9,6 @@ $(document).ready(function(){
 				success: function(data){
 					console.log(data);
 					var new_speed = Math.round(data.wind.speed * 2.236936);
-					// var obj = JSON.parse(data);
 					$('#weather-report').html("Forecast: " + data.weather[0].description + ", Temp: " +
 					data.main.temp + "C" + ", Temp Feels Like: " + data.main.feels_like + "C" + ", Wind Speed: " +
 					new_speed + " MPH");
