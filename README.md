@@ -9,7 +9,7 @@ What is produced in these files is a short weather report, pulling out the data 
 
 You can find the documentation for OpenWeather's Current State API here: https://openweathermap.org/current
 
-#To make this work:
+# To make this work:
 Create an account with OpenWeather, and enter your API key where it is indicated to do so in the JavaScript file.
 
 Add your own choices of CSS, experiment with retrieving other data from the returned JSON object, 
