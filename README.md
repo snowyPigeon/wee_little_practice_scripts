@@ -8,6 +8,8 @@ What is produced in these files is a short weather report, pulling out the data 
 
 You can find the documentation for OpenWeather's Current State API [here](https://openweathermap.org/current).
 
+I created this for a Major League Hacking challenge around 2020/1.
+
 ### To make this work:
 Create an account with OpenWeather, and enter your API key where it is indicated to do so in the JavaScript file.
 
