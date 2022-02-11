@@ -1,5 +1,4 @@
 # wee_little_practice_scripts
-<<<<<<< HEAD
 A repo for trivial examples - supports hackathon and technical course challenges. 
 
 ## Palindrome Checker
@@ -15,7 +14,6 @@ This is a C# program.cs file for a simple script to sort a list of names of bird
 ## TwilioMessageSend
 simple_twilio_message_send uses a simple script from the Twilio documentation to send a marketing message for a fictional theatre, advising its customers that they can now book shows from June 21st. This was for a Major League Hacking challenge in 2021.
 
-=======
 
 ## Weather Check
 Weather Check is a very simple practice application, building upon the call to OpenWeather's CurrentWeather API described by Uzochukwu Odozi in this video:
@@ -32,4 +30,3 @@ Create an account with OpenWeather, and enter your API key where it is indicated
 
 Add your own choices of CSS, experiment with retrieving other data from the returned JSON object, 
 and indeed, have fun exploring the other APIs available for your particular account.
->>>>>>> weather_check
