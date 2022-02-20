@@ -1,17 +1,23 @@
 # wee_little_practice_scripts
 A repo for small projects - supports hackathon and technical course challenges. 
 
+## caesarsCipher.js
+This is my solution for Free Code Camp's JavaScript Caesars Cipher.
+You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
+
+I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
+
 ## ListSort.cs
 This is a C# program.cs file for a simple script to sort a list of names of bird species. This was for a Major League Hacking challenge in 2021.
 
 ## palindromeChecker.js
-This is my solution for  Free Code Camp's JavaScript Palindrome Checker.
+This is my solution for Free Code Camp's JavaScript Palindrome Checker.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
 I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs. 
 
 ## romanNumeralConverter.js
-This is my solution for  Free Code Camp's JavaScript Roman Numeral Converter.
+This is my solution for Free Code Camp's JavaScript Roman Numeral Converter.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
 I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.

@@ -42,14 +42,14 @@ const cipher = new Map([
   ["Z", "M"],
 ]);
 
-function decode(value, array) {
+function decode(value, index, array) {
   var current = cipher.get(value);
   console.log(array);
-  if (current != "") {
-      console.log(current);
-    value = current;
-    current = "";
+  if (current != undefined) {
+    console.log(current);
     // replace inputArray[value] with decoded value
+    array[index] = current;
+    current = "";
   }
 }
 
@@ -58,6 +58,9 @@ function rot13(str) {
   console.log(inputArray);
   inputArray.forEach(decode);
   // convert inputArray back into a string.
+  console.log(inputArray);
+  str = inputArray.join("");
+  console.log(str);
   return str;
 }
 
