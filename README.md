@@ -22,6 +22,16 @@ You can find the instructions here at [Free Code Camp](https://www.freecodecamp.
 
 I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
 
+## telephoneNumberValidator.js
+This is my solution for Free Code Camp's JavaScript Telephone Number Validator.
+You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
+
+I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
+
+This challenge requires use of regex. I found the regex reference guide at [W3 Schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp) helpful when building my valid patterns.
+
+This telephone number validator validates US telephone numbers, and I would like to write a validator for UK telephone numbers in the near future.
+
 ## TwilioMessageSend.cs
 simple_twilio_message_send uses a simple script from the Twilio documentation to send a marketing message for a fictional theatre, advising its customers that they can now book shows from June 21st. This was for a Major League Hacking challenge in 2021.
 
