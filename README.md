@@ -1,11 +1,16 @@
 # wee_little_practice_scripts
 A repo for small projects - supports hackathon and technical course challenges. 
 
+## Regarding the Free Code Camp Challenges
+I wrote the solutions for these in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
+
 ## caesarsCipher.js
 This is my solution for Free Code Camp's JavaScript Caesars Cipher.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
-I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
+## cashRegister.js
+This is my solution for Free Code Camp's JavaScript Cash Register.
+You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
 ## ListSort.cs
 This is a C# program.cs file for a simple script to sort a list of names of bird species. This was for a Major League Hacking challenge in 2021.
@@ -14,19 +19,13 @@ This is a C# program.cs file for a simple script to sort a list of names of bird
 This is my solution for Free Code Camp's JavaScript Palindrome Checker.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
-I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs. 
-
 ## romanNumeralConverter.js
 This is my solution for Free Code Camp's JavaScript Roman Numeral Converter.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
 
-I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
-
 ## telephoneNumberValidator.js
 This is my solution for Free Code Camp's JavaScript Telephone Number Validator.
 You can find the instructions here at [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator), as part of their JavaScript Algorithms and Data Structures Projects curriculum.
-
-I wrote this in Visual Studio Code and tested my code using the [Quokka extension](https://quokkajs.com/) with console.logs.
 
 This challenge requires use of regex. I found the regex reference guide at [W3 Schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp) helpful when building my valid patterns.
 
